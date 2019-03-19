@@ -4,6 +4,10 @@ GIT comaparison
 
 Table of Contents
 
+	Introduction
+	Purpose
+	Summary
+	
 Introduction
 
 Purpose
