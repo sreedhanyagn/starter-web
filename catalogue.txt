@@ -1,5 +1,7 @@
 Title
 
+GIT comaparison
+
 Table of Contents
 
 Introduction
